@@ -177,6 +177,20 @@ figcaption {
 }
 
 #main-connect {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
     color: #fff;
+    font-size: large;
 }
+
+form *{
+    display: block;
+    width: 75%;
+    margin: 0 25% 0 0;
+    padding: 15px 0;
+}
+
+
 
