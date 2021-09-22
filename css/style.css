@@ -165,3 +165,18 @@ figcaption {
     color: #fff;
     background: rgba(10, 10, 10, 0.8);
 }
+
+/* Styling for connect.html */
+
+.wrapper-connect {
+    background-image: url(../images/connect-photo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+#main-connect {
+    color: #fff;
+}
+
