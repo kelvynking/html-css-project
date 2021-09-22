@@ -24,6 +24,7 @@
 html, body {
     height: 100%;
     margin: 0;
+    /* position: relative; */
 }
 
 nav ul {
@@ -93,3 +94,27 @@ li a {
 
 /* Styling for about.html */
 
+.wrapper-about {
+    background-image: url(../images/about-photo.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 50% auto;
+    margin-left: 1%;
+    height: 100%;
+}
+
+#main-about {
+    color: #000;
+    text-align: justify;
+    padding-left: 53%;
+    padding-right: 25px;
+    padding-top: 100px;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+#main-about h3 {
+    font-family: "Quattrocento-Bold";
+    font-size: 150%;
+    color: #755a02;
+}
