@@ -121,6 +121,18 @@ li a {
 
 /* Styling for projects.html */
 
+#main-projects {
+    font-size: 150%;
+    text-align: center;
+}
+
+#figures {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    margin: 5rem;
+}
+
 img {
     width: 240px;
     height: 240px;
