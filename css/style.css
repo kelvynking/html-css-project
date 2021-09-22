@@ -118,3 +118,13 @@ li a {
     font-size: 150%;
     color: #755a02;
 }
+
+/* Styling for projects.html */
+
+img {
+    width: 240px;
+    height: 240px;
+    border: 5px #755a02 solid;
+}
+
+
