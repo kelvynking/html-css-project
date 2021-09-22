@@ -38,3 +38,30 @@ html, body {
     height: 100%;
 }
 
+.nav-home {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-home h1 {
+    font-family: "Quattrocento-Bold";
+    font-size: 200%;
+    margin-left: 10.5%;
+}
+
+.nav-home ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+li {
+    padding: 25px;
+    background: #000;
+}
+
+li a {
+    color: #fff;;
+    text-decoration: none;
+}
+
