@@ -139,4 +139,8 @@ img {
     border: 5px #755a02 solid;
 }
 
-
+figcaption {
+    font-family: "BilboSwashCaps-Regular";
+    font-weight: bold;
+    font-size: 1.6rem;
+}
