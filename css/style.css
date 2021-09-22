@@ -1,0 +1,19 @@
+/* Imported Fonts */
+
+@font-face {
+    font-family: "Quattrocento-Bold";
+    src: url(../fonts/Quattrocento-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Quattrocento-Regular";
+    src: url(../fonts/Quattrocento-Regular.ttf);
+}
+
+@font-face {
+    font-family: "BilboSwashCaps-Regular";
+    src: url(../fonts/BilboSwashCaps-Regular.ttf);
+}
+
+/* Global Styles */
+
