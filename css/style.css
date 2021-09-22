@@ -28,7 +28,7 @@ html, body {
 
 /* Styling for index.html */
 
-.wrapper {
+.wrapper-home {
     display: flex; 
     flex-direction: column;
     background-image: url(../images/index-photo.jpg);
@@ -37,3 +37,4 @@ html, body {
     background-size: cover;
     height: 100%;
 }
+
