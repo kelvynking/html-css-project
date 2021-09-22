@@ -65,3 +65,30 @@ li a {
     text-decoration: none;
 }
 
+#intro {
+    margin: auto;
+    width: 75%;
+}
+
+#intro h1 {
+    font-family: "BilboSwashCaps-Regular";
+    font-size: 500%;
+    font-weight: 800;
+    color: #755a02;
+    padding-top: 15px;
+    padding-right: 135px;
+    border-bottom: 6px solid #755a02;
+}
+
+#intro p {
+    font-size: 150%;
+    font-weight: 700;
+    margin-left: 150px;
+    padding: 1%;
+    text-align: justify;
+    line-height: 1.5em;
+    color: #fff;
+    background: rgba(10, 10, 10, 0.8);
+}
+
+
