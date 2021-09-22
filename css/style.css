@@ -26,6 +26,12 @@ html, body {
     margin: 0;
 }
 
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
 /* Styling for index.html */
 
 .wrapper-home {
@@ -47,12 +53,6 @@ html, body {
     font-family: "Quattrocento-Bold";
     font-size: 200%;
     margin-left: 10.5%;
-}
-
-.nav-home ul {
-    list-style-type: none;
-    display: flex;
-    justify-content: flex-end;
 }
 
 li {
@@ -91,4 +91,5 @@ li a {
     background: rgba(10, 10, 10, 0.8);
 }
 
+/* Styling for about.html */
 
