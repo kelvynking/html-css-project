@@ -20,3 +20,20 @@
 * {
     font-family: "Quattrocento-Regular";
 }
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Styling for index.html */
+
+.wrapper {
+    display: flex; 
+    flex-direction: column;
+    background-image: url(../images/index-photo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
