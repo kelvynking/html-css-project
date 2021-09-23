@@ -49,6 +49,14 @@ h1 {
     color: #000;
 }
 
+a {
+    color: #00f;
+}
+
+a:hover {
+    color: #f00;
+}
+
 /* Styling for index.html */
 
 .wrapper-home {
