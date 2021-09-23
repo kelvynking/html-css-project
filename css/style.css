@@ -115,10 +115,8 @@ li a {
     font-weight: bold;
 }
 
-#main-about h3 {
+#main-about h1 {
     font-family: "Quattrocento-Bold";
-    font-size: 150%;
-    color: #755a02;
 }
 
 /* Styling for projects.html */
@@ -199,7 +197,6 @@ form *{
     margin-top: 10px;
     font-size: 1.2rem;
 }
-
 
 
 
