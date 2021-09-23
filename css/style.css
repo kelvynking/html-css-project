@@ -37,11 +37,14 @@ h1 {
     color: #755a02;
 }
 
+p {
+    font-size: 1.5rem;
+}
+
 .footer {
     display: flex;
     justify-content: flex-end;
     color: #fff;
-    font-size: 1.5rem;
     margin-right: 2%;
 }
 
@@ -115,7 +118,6 @@ li a {
 }
 
 #intro p {
-    font-size: 150%;
     font-weight: 700;
     margin-left: 150px;
     padding: 1%;
@@ -142,7 +144,6 @@ li a {
     padding-left: 53%;
     padding-right: 25px;
     padding-top: 100px;
-    font-size: 150%;
     font-weight: bold;
 }
 
@@ -153,7 +154,6 @@ li a {
 /* Styling for projects.html */
 
 #main-projects {
-    font-size: 150%;
     text-align: center;
 }
 
@@ -187,7 +187,6 @@ figcaption {
 }
 
 #main-journal {
-    font-size: 1.5em;
     font-weight: bold;
     line-height: 1.8;
     text-align: center;
