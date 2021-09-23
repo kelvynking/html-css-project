@@ -230,6 +230,19 @@ form *{
 }
 
 
+/* Styling for landing.html */
 
+.wrapper-landing {
+    height: 100%;
+}
+
+#main-landing {
+    display: flex;
+    height: 75%;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #808080;
+}
 
 
