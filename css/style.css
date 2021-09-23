@@ -190,12 +190,14 @@ form *{
     width: 75%;
     margin: 0 25% 0 0;
     padding: 15px 0;
+    text-align: center;
 }
 
 #submit-button {
     margin-top: 10px;
     font-size: 1.2rem;
 }
+
 
 
 
