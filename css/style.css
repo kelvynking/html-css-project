@@ -36,6 +36,14 @@ nav ul {
 h1 {
     color: #755a02;
 }
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    color: #fff;
+    font-size: 1.5rem;
+    margin-right: 2%;
+}
 /* Styling for index.html */
 
 .wrapper-home {
